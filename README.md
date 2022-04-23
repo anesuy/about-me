@@ -2,5 +2,5 @@
 - 24 years old. 
 - Bachelor in Civil Engineering;
 - Brazilian;
-- Stuying to become a IT professional;
+- Stuying to become an IT professional;
 - www.linkedin.com/in/suyaneoden
