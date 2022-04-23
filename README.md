@@ -3,4 +3,5 @@
 - Bachelor in Civil Engineering;
 - Brazilian;
 - Stuying to become an IT professional;
+- Work and profile page in progress. 
 - www.linkedin.com/in/suyaneoden
