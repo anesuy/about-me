@@ -22,14 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="60"/>
 </div>
 
-### My Stats
 
-<div>
-	<a>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
-	<img height="180em" src="!https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>	
-	</a>
-</div>
 
 
           
