@@ -1,7 +1,8 @@
-** Suyane Oden **
+### Suyane Oden
+
 - ✨24 years old. 
 - ✨Bachelor in Civil Engineering;
-- ✨ Brazilian;
+- ✨Brazilian;
 - ✨Obsessed with technology;
 - ✨Contact: www.linkedin.com/in/suyaneoden
 
@@ -21,5 +22,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="60"/>
 </div>
 
-	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+### My Stats
+
+<div>
+	<a>
+	<img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)"/>
+	<img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)"/>	
+	</a>
+</div>
+
+
           
