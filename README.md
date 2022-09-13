@@ -10,16 +10,16 @@
 Technologies currently learning
 
 <div>
-<i class="devicon-react-original" width="60">
-<i class="devicon-typescript-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 </div>
 
 Most used
 
 <div> 
-<i class="devicon-javascript-plain"></i>
-<i class="devicon-html5-plain"></i>
-<i class="devicon-css3-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </div>
 
           
